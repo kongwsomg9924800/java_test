@@ -1,4 +1,4 @@
-package java1;
+package java1.Basicp.Array;
 
 public class ArrayDeclare {
     public static void main(String[] args) {

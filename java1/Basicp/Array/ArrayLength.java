@@ -1,4 +1,4 @@
-package java1;
+package java1.Basicp.Array;
 
 public class ArrayLength {
     //动态初始化：指定长度

@@ -1,4 +1,4 @@
-package java1;
+package java1.Basicp.Ifp;
 
 public class IfDemo {
     public static void main(String[] args) {

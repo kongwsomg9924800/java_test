@@ -1,4 +1,4 @@
-package java1;
+package java1.Collection;
 
 public class TernaryOperatie {
     public static void main(String[] args) {

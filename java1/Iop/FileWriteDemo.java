@@ -1,4 +1,4 @@
-package java1.Collection.Iop;
+package java1.Iop;
 
 import java.io.FileWriter;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package java1;
+package java1.Basicp.Forp;
 
 public class SwitchDemo {
     public static void main(String[] args) {

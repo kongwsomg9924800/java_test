@@ -1,4 +1,4 @@
-package java1;
+package java1.Basicp.Ifp;
 
 public class IfElseIf {
     public static void main(String args[]){
